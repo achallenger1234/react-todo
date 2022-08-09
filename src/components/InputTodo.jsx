@@ -1,6 +1,6 @@
 import React from 'react';
 const style = {
-    backgroundColor: 'c1ffff',
+    backgroundColor: '#c100ff',
     width: '400px',
     height: '30px',
     padding: '8px',
